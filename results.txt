@@ -79,3 +79,59 @@ Test F1 Score: 0.0000
 Test Precision: 0.0000
 Test Recall: 0.0000
 
+Trait: DASS_Depression_Label
+Semantic data: silhouettes
+Oversample: True
+Test Accuracy: 0.0000
+Test F1 Score: 0.0000
+Test Precision: 0.0000
+Test Recall: 0.0000
+
+Trait: DASS_Anxiety_Label
+Semantic data: silhouettes
+Oversample: True
+Test Accuracy: 0.5000
+Test F1 Score: 0.3333
+Test Precision: 0.2500
+Test Recall: 0.5000
+
+Trait: DASS_Stress_Label
+Semantic data: silhouettes
+Oversample: True
+Test Accuracy: 0.0000
+Test F1 Score: 0.0000
+Test Precision: 0.0000
+Test Recall: 0.0000
+
+Trait: GHQ_Label
+Semantic data: silhouettes
+Oversample: True
+Test Accuracy: 0.5000
+Test F1 Score: 0.3333
+Test Precision: 0.2500
+Test Recall: 0.5000
+
+Trait: OFER_ChronicFatigue_Label
+Semantic data: silhouettes
+Oversample: True
+Test Accuracy: 0.5000
+Test F1 Score: 0.3333
+Test Precision: 0.2500
+Test Recall: 0.5000
+
+Trait: OFER_AcuteFatigue_Label
+Semantic data: silhouettes
+Oversample: True
+Test Accuracy: 0.0000
+Test F1 Score: 0.0000
+Test Precision: 0.0000
+Test Recall: 0.0000
+
+Trait: OFER_Recovery_Label
+Semantic data: silhouettes
+Oversample: True
+Test Accuracy: 0.0000
+Test F1 Score: 0.0000
+Test Precision: 0.0000
+Test Recall: 0.0000
+
